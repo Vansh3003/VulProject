@@ -1,10 +1,11 @@
 .weatherBg{
-  background: url("https://img.freepik.com/premium-vector/clouds-stars-sun-blue-background-childrens-vector-illustration-sky_153074-219.jpg");
+  /* background: url("https://www.freepik.com/premium-psd/sunny-thunder-weather-forecast-with-cloud-transparent-background-3d-illustration_37234435.htm"); */
   height: 40vh;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
+  background-color: rgb(215, 215, 247);
 }
 
 .form-control{
